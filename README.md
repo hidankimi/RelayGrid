@@ -1,4 +1,3 @@
-
 # RelayGrid: Professional RelayGrid framework with RelayGrid-optimized cloud-ready and enterprise intelligent-automation capabilities Implementation
 > Advanced javascript solution leveraging modern architecture patterns and cutting-edge technology.
 
